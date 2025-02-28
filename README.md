@@ -28,8 +28,6 @@ DynamicForms is an iOS application that dynamically renders forms based on JSON 
 - **Form Entries Screen**: Displays all saved entries for a selected form.
 - **Form Entry Screen**: Dynamically renders the form sections and fields, supports different input types.
 - **Persistence**: All forms and user responses are saved locally using **Core Data**.
-- **HTML Rendering**: Section descriptions support **basic HTML rendering** on iOS 15+.
-- **Auto-save (Optional)**: Autosaves data periodically to avoid data loss.
 
 ---
 

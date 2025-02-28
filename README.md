@@ -11,8 +11,6 @@ This repository contains the iOS implementation of a **dynamic forms application
 - [Prerequisites](#prerequisites)
 - [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Extras](#extras)
 
 ---
 

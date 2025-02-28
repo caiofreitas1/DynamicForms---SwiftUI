@@ -1,0 +1,64 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdatad/
+*.xccheckout
+*.xcodeproj/xcuserdata/
+
+# Swift Packages
+/.swiftpm
+Package.resolved
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/xcshareddata/
+.swiftpm/xcode/xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Other
+*.DS_Store
+*.plist
+*.moved-aside
+*.swp
+*.lock
+*.tmp
+*.orig
+*.log
+*.xcscmblueprint
+
+# Xcode Environment
+.env*
+.env.*.local
+
+# Firebase
+GoogleService-Info.plist
+
+# Secrets (caso você tenha envs ou arquivos de segredo)
+*.key
+*.pem
+*.crt
+*.p12
+*.mobileprovision
+
+# Swift Package Manager (SPM) generated files
+.build/
+

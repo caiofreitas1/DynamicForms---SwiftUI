@@ -13,7 +13,7 @@ struct DynamicFormsApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FormListView()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
